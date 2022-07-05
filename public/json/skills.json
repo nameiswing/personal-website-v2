@@ -1,0 +1,49 @@
+{
+    "languagesAndFrameworks": [
+        { 
+            "name": "html", 
+            "description": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser." 
+        },
+        { 
+            "name": "css",
+            "description": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML."
+        },
+        { 
+            "name": "bootstrap",
+            "description": "Bootstrap is a free front-end framework for faster and easier web development."
+        },
+        {
+            "name": "sass",
+            "description": "Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets."
+        },
+        {
+            "name": "tailwind",
+            "description": "A utility-first CSS framework that can be composed to build any design, directly in your markup."
+        },
+        {
+            "name": "javascript",
+            "description": "JavaScript is an scripting language used both on the client-side and server-side that allows you to make web pages interactive."
+        },
+        {
+            "name": "react",
+            "description": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components."
+        },
+        {
+            "name": "vue",
+            "description": "Vue.js is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS and JavaScript, and provides a declarative and component-based programming model that helps you efficiently develop user interfaces, be it simple or complex."
+        },
+        {
+            "name": "next",
+            "description": "Next.js is an open-source web development framework built on top of Node.js enabling React-based web applications functionalities such as server-side rendering and generating static websites."
+        },
+        {
+            "name": "php",
+            "description": "PHP is a general-purpose scripting language geared toward web development."
+        },
+        {
+            "name": "laravel",
+            "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things."
+        }
+
+    ]
+}
