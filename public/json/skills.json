@@ -1,14 +1,14 @@
 {
     "languagesAndFrameworks": [
-        { 
-            "name": "html", 
-            "description": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser." 
+        {
+            "name": "html",
+            "description": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser."
         },
-        { 
+        {
             "name": "css",
             "description": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML."
         },
-        { 
+        {
             "name": "bootstrap",
             "description": "Bootstrap is a free front-end framework for faster and easier web development."
         },
@@ -29,12 +29,12 @@
             "description": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components."
         },
         {
-            "name": "vue",
-            "description": "Vue.js is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS and JavaScript, and provides a declarative and component-based programming model that helps you efficiently develop user interfaces, be it simple or complex."
-        },
-        {
             "name": "next",
             "description": "Next.js is an open-source web development framework built on top of Node.js enabling React-based web applications functionalities such as server-side rendering and generating static websites."
+        },
+        {
+            "name": "vue",
+            "description": "Vue.js is a JavaScript framework for building user interfaces. It builds on top of standard HTML, CSS and JavaScript, and provides a declarative and component-based programming model that helps you efficiently develop user interfaces, be it simple or complex."
         },
         {
             "name": "php",
@@ -44,6 +44,47 @@
             "name": "laravel",
             "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things."
         }
-
+    ],
+    "toolsAndApplications": [
+        {
+            "name": "vscode",
+            "description": "VS Code is a source-code editor made by Microsoft for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git."
+        },
+        {
+            "name": "git",
+            "description": "Git is software for tracking changes in any set of files, usually used for coordinating work among programmers collaboratively developing source code during software development."
+        },
+        {
+            "name": "github",
+            "description": "Github is a provider of Internet hosting for software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features."
+        },
+        {
+            "name": "bitbucket",
+            "description": "Bitbucket is a Git-based source code repository hosting service owned by Atlassian."
+        },
+        {
+            "name": "photoshop",
+            "description": "Adobe Photoshop is a raster graphics editor developed and published by Adobe Inc. for Windows and macOS."
+        },
+        {
+            "name": "figma",
+            "description": "Figma is a vector graphics editor and prototyping tool which is primarily web-based, with additional offline features enabled by desktop applications for macOS and Windows."
+        },
+        {
+            "name": "node",
+            "description": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser, which was designed to build scalable network applications."
+        },
+        {
+            "name": "npm",
+            "description": "npm is a package manager for the JavaScript programming language maintained by npm, Inc. npm is the default package manager for the JavaScript runtime environment Node.js."
+        },
+        {
+            "name": "mysql",
+            "description": "MySQL is an open-source relational database management system. Its name is a combination of \"My\", the name of co-founder Michael Widenius's daughter, and \"SQL\", the abbreviation for Structured Query Language."
+        },
+        {
+            "name": "laragon",
+            "description": "Laragon is a portable, isolated, fast & powerful universal development environment for PHP, Node. js, Python, Java, Go, Ruby."
+        }
     ]
 }

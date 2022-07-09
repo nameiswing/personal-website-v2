@@ -12,10 +12,18 @@
 
 
 @layer base {
-    h1, h2, h3, h4, h5 {
-        /* font-family: 'Merriweather', serif; */
+    html {
+        @apply scroll-smooth;
+    }
+    h1 {
         font-family: 'Montserrat', 'Arial', sans-serif;
         @apply text-slate-700 drop-shadow-sm font-semibold tracking-tight;
+    }
+    h2, h3, h4, h5 {
+        font-family: 'Rubik', 'Arial', sans-serif;
+    }
+    h2, h3, h4, h5 {
+        @apply font-semibold text-slate-800 drop-shadow shadow-slate-800;
     }
     h1 {
         @apply text-3xl;
@@ -27,6 +35,9 @@
         @apply text-lg;
     }
     p {
+        @apply font-medium;
+    }
+    ul, ol, p, figcaption {
         font-family: 'Quicksand', sans-serif;
     }
     button {
@@ -74,5 +85,8 @@
     }
     .flex-container {
         @apply flex flex-col relative scroll-mt-32;
+    }
+    .sub-container {
+        @apply max-w-6xl mx-auto;
     }
 }
